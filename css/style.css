@@ -1,0 +1,24 @@
+.box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    z-index: 100;
+    background-color: aqua;
+    top: 800px;
+  }
+
+.beans{
+    
+    width: 100px;
+    height: 100px;
+    position: absolute;    
+
+}
+@font-face {
+  font-family: latte-letter;
+  src: url('LattelettersRegular-qZgl5.otf') format("opentype");
+}
+.latte-letter{
+  font-family: latter-letter;
+}
